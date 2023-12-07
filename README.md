@@ -1,5 +1,11 @@
+![version](https://img.shields.io/badge/version-19%R52B-5682DF)
+
 # 4d-topic-web-server
 コンポーネントWebサーバーの例題
+
+## システム要件
+
+* [コンポーネント名前空間](https://blog.4d.com/ja/access-your-component-classes-from-your-host-project/)
 
 ## 構成
 
