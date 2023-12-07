@@ -1,0 +1,29 @@
+{
+	"_method_": {},
+	"cs.srvA": {
+		"HTTP": {
+			"new()": {
+				"Syntax": "**.new**()",
+				"Params": [],
+				"Summary": ""
+			}
+		}
+	},
+	"HTTP": {
+		"open()": {
+			"Syntax": "**.open**()",
+			"Params": [],
+			"Summary": ""
+		},
+		"stop()": {
+			"Syntax": "**.stop**()",
+			"Params": [],
+			"Summary": ""
+		},
+		"start()": {
+			"Syntax": "**.start**()",
+			"Params": [],
+			"Summary": ""
+		}
+	}
+}

@@ -1,0 +1,3 @@
+HOST/userPreferences.*
+HOST/Components/**.4dbase/userPreferences.*
+HOST/Components/**.4dbase/Project/DerivedData/*
