@@ -1,4 +1,4 @@
-![version](https://img.shields.io/badge/version-19%R52B-5682DF)
+![version](https://img.shields.io/badge/version-19%20R5%2B-5682DF)
 
 # 4d-topic-web-server
 コンポーネントWebサーバーの例題
